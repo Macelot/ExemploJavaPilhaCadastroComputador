@@ -1,0 +1,7 @@
+br\com\empresa\poogislainemenu\Memoria.class
+br\com\empresa\poogislainemenu\Pilha.class
+br\com\empresa\poogislainemenu\Computador.class
+br\com\empresa\poogislainemenu\PilhaCheiaException.class
+br\com\empresa\poogislainemenu\ProgramaCadastro.class
+br\com\empresa\poogislainemenu\Hd.class
+br\com\empresa\poogislainemenu\PilhaVaziaException.class
